@@ -2,7 +2,7 @@
 
 ## What is schema ?
 
-``` A database schema is an abstract design that represents the storage of your data in a database. It describes both the organization of data and the relationships between tables in a given database.The visual style of a database schema allows programmers to structure the database and its relationships properly before jumping into the code ```
+A database schema is an abstract design that represents the storage of your data in a database. It describes both the organization of data and the relationships between tables in a given database.The visual style of a database schema allows programmers to structure the database and its relationships properly before jumping into the code .
 
 
 ## what schema includes ?
@@ -29,7 +29,7 @@
 # Primary key 
 
 ## What is primary key ?
-``` A primary key is a special relational database table column (or combination of columns) designated to uniquely identify each table record. ```
+A primary key is a special relational database table column (or combination of columns) designated to uniquely identify each table record. 
 
 ## What's the primary key features ?
 - It must contain a unique value for each row of data.
