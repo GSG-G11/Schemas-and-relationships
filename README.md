@@ -13,16 +13,23 @@
 - Relation between tables.
  
 ## why we need schema ?
-``` we need the schema to clarify the necessary data, the number of tables and the relationships between them. Database schemas are important because they help developers visualize how a database should be structured. having a schema gives developers a clear point of reference about what tables and fields a project contains.```
+- We need the schema to clarify the necessary data, the number of tables and the relationships between them. 
+- Database schemas are important because they help developers visualize how a database should be structured. 
+- Having a schema gives developers a clear point of reference about what tables and fields a project contains.
+- To allow many users to use one database without interfering with each other.
+- To organize database objects into logical groups to make them more manageable.
+- Third-party applications can be put into separate schemas so they do not collide with the names of other objects.
 
 ## Why is it important to design a database schema before adding data into a database ?
-``` The good database design Divides your information into subject-based tables to reduce redundant data. Provides Access with the information it requires to join the information in the tables together as needed. Helps support and ensure the accuracy and integrity of your information ```
+- The good database design Divides your information into subject-based tables to reduce redundant data. 
+- Provides Access with the information it requires to join the information in the tables together as needed. 
+- Helps support and ensure the accuracy and integrity of your information 
 
 
 # Primary key 
 
 ## What is primary key ?
-- A primary key is a special relational database table column (or combination of columns) designated to uniquely identify each table record.
+``` A primary key is a special relational database table column (or combination of columns) designated to uniquely identify each table record. ```
 
 ## What's the primary key features ?
 - It must contain a unique value for each row of data.
